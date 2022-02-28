@@ -1,0 +1,419 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An old parliamentary prognostication made at Westminster, for the new-yeer, and young members there assembled in consultation. Fore-shewing the probable finall issue of all their intended new moddles, acts, and ordinances, from four old printed statutes, and abortive nulled Parliaments, not unworthy of their knowledg most serious consideration &amp; saddest meditation; (and the whole three kingdoms too,) in regard of the present face of our publike affairs.</title>
+            <author>Prynne, William, 1600-1669.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91236</idno>
+            <idno type="STC">Wing P4024</idno>
+            <idno type="STC">Thomason E818_11</idno>
+            <idno type="STC">ESTC R207393</idno>
+            <idno type="EEBO-CITATION">99866447</idno>
+            <idno type="PROQUEST">99866447</idno>
+            <idno type="VID">167999</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91236)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 167999)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 124:E818[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An old parliamentary prognostication made at Westminster, for the new-yeer, and young members there assembled in consultation. Fore-shewing the probable finall issue of all their intended new moddles, acts, and ordinances, from four old printed statutes, and abortive nulled Parliaments, not unworthy of their knowledg most serious consideration &amp; saddest meditation; (and the whole three kingdoms too,) in regard of the present face of our publike affairs.</title>
+                  <author>Prynne, William, 1600-1669.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed for the yeer 1655 [i.e. 1654]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to William Prynne.</note>
+                  <note>Annotation on Thomason copy: "Decemb: 2"; the second 5 in imprint date has been crossed out and date altered to 1654.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-06</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:167999:1" rendition="simple:additions"/>
+            <p>AN OLD
+PARLIAMENTARY
+PROGNOSTICATION
+MADE AT
+WESTMINSTER,
+FOR THE
+<hi>NEW-YEER,</hi> and <hi>YO<g ref="char:V">Ʋ</g>NG MEMBERS</hi> there aſſem<g ref="char:EOLhyphen"/>bled
+in <hi>Conſultation.</hi>
+            </p>
+            <p>Fore-ſhewing
+The <hi>probable Finall iſſue</hi> of all their intended <hi>new Mod<g ref="char:EOLhyphen"/>dles,
+Acts,</hi> and <hi>Ordinances,</hi> from four Old Printed <hi>Statutes,</hi>
+and <hi>Ahortive nulled Parliaments,</hi> not unworthy of their
+knowledg moſt <hi>Serious Conſideration</hi> &amp; ſaddeſt <hi>Meditation;</hi>
+(and the whole <hi>three Kingdoms</hi> too,) in regard of the
+preſent Face of our publike Affairs.</p>
+            <q>
+               <bibl>Prov. 24. 20, 21, 22.</bibl>
+               <p>There ſhal be no reward to the evil man, the
+lamp of the wicked ſhal be put out. My ſon, fear thou the Lord
+and the King, and meddle not with thoſe that are given to change;
+For their calamity ſhall riſe ſuddenly, and who knoweth the ruin
+of them both?</p>
+            </q>
+            <q>
+               <bibl>Iſai 8. 9, 10, 11, 12, 13.</bibl>
+Aſſociate your ſelves, O yee people, and yee
+ſhal be broken in pieces, take Counſel together, and it ſhal come
+to nought<g ref="char:punc">▪</g> ſpeak the word and it ſhal not ſtand: for God is
+with us. For the Lord ſpake thus to me with a ſtrong hand, and
+inſtructed me, that I ſhould not walk in the way of this people;
+Saying, ſay ye not <hi>A Confederacy</hi> to all them to whom this peo<g ref="char:EOLhyphen"/>ple
+ſhal ſay <hi>A Confederacy,</hi> neither fear ye their fear, nor be a<g ref="char:EOLhyphen"/>fraid:
+Sanctifie the LORD OF HOSTS HIMSELF; and let
+him be your fear and let him be your dread.</q>
+            <q>
+               <bibl>Iſai. 19. 13. 14</bibl>
+The Princes of Zoan are become fools: the Princes
+of Noph are deceived, they have alſo ſeduced Egypt, even they that
+are the ſtay of the Tribes thereof. The lord hath mingled a ſpirit
+of perverſneſs in the midſt therof, &amp; they have cauſed Egypt to err
+<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n every work thereof, as a drunken man ſtaggereth in his vomit.</q>
+            <p>London printed for the Yeer 1655</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:167999:2"/>
+            <pb n="1" facs="tcp:167999:2"/>
+            <head>An Old Parliamentary Prognoſtication made at Weſtminster,
+for the New Yeer, and Young Members there aſſembled in
+CONS<g ref="char:V">Ʋ</g>LTATION.</head>
+            <epigraph>
+               <bibl>Prov. 19. 20.</bibl>
+               <q>Hear Counſel, and receive Inſtruction, that thou maiſt
+be wiſe in thy latter end.</q>
+               <bibl>Eccleſ. 1. 15:</bibl>
+               <q>The thing which hath been, is that which ſhall be; and
+that which is done, is that which ſhall be done, and there is no new thing
+under the Sun.</q>
+            </epigraph>
+            <head type="sub">7. Henry 4. Chap. 3.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>Tem,</hi> Whereas the Munday next after, the Feaſt of
+the Exaltation of the holy Croſs,<note place="margin">St<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t. 1. Print<g ref="char:EOLhyphen"/>ed in the old Stat<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tes at large.</note> the 2<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. year of the
+Reigne of the ſaid late King <hi>Richard,</hi> a Parliament was
+ſummoned and holden at <hi>Weſtminster;</hi> and from thence
+adjourned to <hi>Salop;</hi> at which Town a <hi>certain power
+was committed by authority of the Parliament, to certain perſons, to pro<g ref="char:EOLhyphen"/>ceed
+upon certain Articles and matters compriſed in the Roll of the Par<g ref="char:EOLhyphen"/>liament
+thereof made,</hi> as by the ſame Roll may appear in which Par<g ref="char:EOLhyphen"/>liament,
+and alſo by Authority aforeſaid, divers <hi>Statu; tes, Judgments,
+Ordinances, and Stabliſhments were made, ordained and given erroni<g ref="char:EOLhyphen"/>ouſly
+and dolefully<g ref="char:punc">▪</g> in great diſinheriſon and finall deſtruction and undo<g ref="char:EOLhyphen"/>ing
+of many honorable Lords and other l<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ige people of the Realm, and
+of their heirs for ever.</hi> Our Soveraigne Lord the K<gap reason="illegible: missing" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g conſidering
+the great miſchiefs aforeſaid, by the advice and aſſent of all the
+Lords Spiritual and temporal, and of all the Commonalty, <hi>hath judged
+the ſaid Parliament, holden the ſaid 21 yeare, and the authority thereof
+(given as afore is ſaid) with all the circumſtances and dependants there<g ref="char:EOLhyphen"/>upon,
+be wholly reverſed, revoked, voided, undone, repealed and adnulled
+for ever.</hi>
+            </p>
+            <p>31. Henry 6. <hi>Chap. 1. Whereas the moſt abominable Tyrant,
+horrible, odious, and errant falſe Traytor</hi> John Cade, <hi>calling and
+naming himſelf ſometime</hi> Mortimer, <hi>ſometime</hi> Captain <hi>of</hi> Kent,
+<hi>which name, fame, act and feats, be to be removed out of the ſpeech
+and mind of every faithfull Chriſtian man perpetually; falſly, and
+trayterouſly purpoſing and imagining the</hi> perpetuall deſtruction of the
+Kings ſaid perſon, and finall ſubverſion of this Realm, taking upon him
+royall power, and gathering to him the Kings people in great number,
+by falſe, ſubtil, imagined language, and ſeditiouſly made a ſtirring
+rebellion, and inſurrection under colour of juſtice for reformation of the
+<pb n="2" facs="tcp:167999:3"/>
+Laws of the ſaid King, robbing, ſlaying, and ſpoyling great part of his
+faithfull people. <hi>Our ſaid Soveraigne Lord the King, conſidering the
+promiſes, with many other which were more odious to remember,
+by advice and aſſent of the Lords aforeſaid, and at requeſt of the
+ſaid Commont, and by authority aforeſaid, hath ordained and
+ſtabliſhed, that the ſaid</hi> John Cade <hi>ſhall be reputed, had named and
+declared a</hi> faſe Traytor to our ſoveraigne Lord the King, and that all
+his Tyranny, Acts, Feats, and falſe opinions, ſhall be voided, abated,
+adnulled, deſtroyed<g ref="char:punc">▪</g> and put out of remembrance for ever; and that all
+indictments, and all things depending thereof, had and made under the
+the power of Tyrany, ſhall likewiſe be void, adnulled, abated, repealed,
+&amp; holden for none, &amp; that the blood of none of them be thereof defiled nor
+corrupted, but by the authority of the ſaid Parliament clearly declared
+for ever. And that all indictments in time coming in like caſe under
+power of Tyrany, Rebellion, and ſtirring, had, ſhall be of no record nor
+effect, but void in Law: and all the petitions delivered to the ſaid King
+in his laſt Parliament holden at Weſtminſter <hi>the 6th day of November
+the 29 year of his reigne, againſt his mind by him not agreed,</hi> ſhall
+be taken and put in oblivion, out of remembrance undone, voided, adnul<g ref="char:EOLhyphen"/>led,
+and deſtroyed for ever, as a thing purpoſed againſt God, and conſci<g ref="char:EOLhyphen"/>ence,
+ann againſt his royall eſtate and preheminence, ana alſo diſhonora<g ref="char:EOLhyphen"/>ble.</p>
+            <p>39. Henry 6 <hi>Chap. 1 Whereas it hath been ſhewed to the King
+our ſoveraign Lord, by his Leige and faithfull Commons, in this
+preſent Parliament,</hi> that divers ſeditious and evill deſpoſed perſons
+having no regard to the dread of God, nor to the damage of the proſperous
+eſtate of our ſaid ſoveraigne Lo<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d the King, nor his Realm ſiniſtrely and
+importunely did labour the ſaid King to ſummon a Parliament <hi>to be
+holden at the City of</hi> Coventry, <hi>the ſecond day of the Month of
+November, the 38. year of his noble Reigne,</hi> only to deſtroy certain
+of the great Nobles faithfull and lawfull Lords; and eſtates of the Kings
+bloud, and other of the faithfull leige people of the ſame realm of England
+for the great rancor, hatred, and malice, which the ſaid ſeditious per<g ref="char:EOLhyphen"/>ſons
+of long time have had againſt them, and of their greedy and inſatia<g ref="char:EOLhyphen"/>ble
+covetiſe to have the Lands, Hereditaments poſſeſsions, offices, and
+goods of the ſaid Lords<g ref="char:punc">▪</g> and faithful liege peoyle, by which ſiniſter la<g ref="char:EOLhyphen"/>bour
+certain Acts, Statutes and ordinances, againſt all good faith and
+conſcience, in the ſaid Parliament were made finally to deſtroy the ſaid
+lawful Lords eſtates and liege people, and their iſſues, as well innocents
+<pb n="3" facs="tcp:167999:3"/>
+as other, and their Heirs for ever: which parliament was unduely
+ſummoned, and a great part of the Knights for divers Countyes of this
+Realm, and many Burgeſſes and Citizens for divers Boroughs and Cities
+in the ſame appearing were named returned, and excepted, ſome of them
+without due and free election, ſome of them without any election, againſt
+the courſe of the Kings Laws, and the Liberties of the Commons of this
+Realm, by the means and labours of the ſeditious perſons, whereby many
+great Jeopardies, Enormities, and inconveniences, well nigh to the ruin,
+decay, and univerſall ſubverſion of the ſaid Realm, have enſued; our
+ſaid <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>overaigne Lord the King, conſidering the premiſes, and that the
+ſaid Lords Eſtates, and other his leige people, againſt whom the ſaid
+Acts, Statutes, and Ordinances were made, have always had great and
+faithfull love, to the preferment and ſurety of the Kings perſon, accor<g ref="char:EOLhyphen"/>ding
+to their duty, and that few of the Acts, <hi>made in the ſaid Parlia<g ref="char:EOLhyphen"/>ment
+holden at</hi> Coventry <hi>were</hi> made for the weale of the King, nor of
+his ſaid Realm, but the greater part of the Acts, Statutes &amp; Ordinances
+there made, were laboured by the conſpiracy, procurement &amp; excitation
+of the ſaid evill diſpoſed perſons, for the introduction and accompliſhment
+of their rancor and inordinate covetiſe; <hi>By the advice and aſsent of
+the Lords Spiritual and Temporal, and at the requeſt of the ſaid
+Commons, in the ſaid Parliament aſsembled, and by the ſame Au<g ref="char:EOLhyphen"/>thority
+hath ordained and eſtabliſhed, That the ſaid Parliament hol<g ref="char:EOLhyphen"/>den
+at the ſaid City of</hi> Coventry <hi>be void, and holden for no Parlia<g ref="char:EOLhyphen"/>ment,
+and that all</hi> Acts, Statutes <hi>and</hi> ordinances <hi>by the Authority
+of the ſame made, be reverſed, adnulled, undone, repealed, revoked,
+voyd, and of no force nor effect.</hi>
+            </p>
+            <p>17 <hi>Ed. 4 Chap</hi> 7, <q>Whereas in the moſt dolorous abſence of our
+Soveraigne Lord the King out of this Realm, being in the partis
+of Holland, before his victorious regreſs into the ſame Realm, in
+a pretenced Parliament, unlawfully and by uſurped power ſummo<g ref="char:EOLhyphen"/>ned,
+by the Rebell and enemy to our Soveraigne Lord the King,
+<hi>Henry</hi> 8 late in deed &amp; not of right King of England, holden in
+the Palace of Weſtminſter, the 26 day of <hi>November</hi> the 9th year
+of our Soveraigne Lord the King that now is, under the coloured
+title of the ſaid <hi>Henry,</hi> the xlx year of the inchoation of his
+pretenced Reigne, and the firſt year of the redeption of his uſurped
+power and eſtate; divers and many matters were treated<g ref="char:punc">▪</g> communed
+and wrought to the deſtruction and diſheriſon of our Soveraigne
+Lord the King, and of his blood royall, by the labour and exhor<g ref="char:EOLhyphen"/>tation
+<pb n="4" facs="tcp:167999:4"/>
+of perſons not fearing God, nor willing to be under the
+rule of any earthly Prince, but inclined of ſenſuall appetite, to have
+the whole governance and rule of this Realm under their power
+and domination: which communications, treaties, and workings,
+doth remain in writing, and ſome exemplified, whereby many
+inconveniences may enſue to our ſaid Soveraigne Lord the King
+and his blood royall, which God defend; and all Noble men at
+this time attending about the King, and all his other leige people
+and Subjects, unleſs due remedy be provided in this behalf. Our
+ſaid Soveraigne Lord the King, by the aſſent of the Lords ſpirituall
+and temporal, and at requeſt of the Commons in the ſaid Parliament
+aſſembled, and by Avthority of the ſame, for the ſurety of his noble
+perſon, his noble iſſue, and the inheritable ſucceſs of the ſame, and
+for the ſurety of all the Lords, Noblemen, and other his ſervants
+and ſubjects, hath ordained and ſtabliſhed, that the ſaid pretenced
+Parliament, with all the continuances and circumſtances, depending
+upon the ſame, be void and of none effect; and that all acts, ſtatutes,
+ordinances, treaties, communications, conventions and workings
+in the ſaid pretenced Parliament, treated, communed, accorded,
+wrought, had, or by the Authority of the ſame Parliament enacted
+and ordained; and all exemplifications made upon the ſame; or
+any part of them and every of them, ſhall be reverſed cancelled,
+voyd, undone, revoked, repealed, and of no force nor effect.</q>
+            </p>
+            <p>
+               <hi>Ezek</hi> 17. 26. 27. Thus ſaith the Lord God; remove the Diadem
+and take off the Crown; this ſhall not be the ſame; exalt him that
+is low, and abaſe him that is high: I will overturn, overturn, overturn
+it, and it ſhal be no more, until He come whoſe right it is; and I
+will give it him.</p>
+            <p>
+               <hi>Iſai.</hi> 29 14. 15. 16. Therefore behold I will proceed to do a
+marvelous work amongſt this people, even a marvelous work and a
+wonder; for the wiſdome of their wiſe men ſhall periſh, and the
+underſtanding of their prudent men ſhalbe hid; Wo unto them that
+ſeek deep, to hide their counſel from the Lord, and their works are
+in the dark, and they ſay, who ſeeth, and who knoweth us? Surely,
+your turning of things upſide down ſhall be eſteemed as the potters
+clay.</p>
+            <p>
+               <hi>Pſal.</hi> 92. 5. 6, 7, 8, 9. O Lord how great are thy works, and thy
+thoughts are very deep: a bruitiſh man knoweth not, neither doth
+a fool underſtand this; when the wicked ſpring as the graſs, and all
+<pb n="5" facs="tcp:167999:4"/>
+the works of iniquity do flouriſh; it is, that they ſhall be deſtroyed
+for ever, but thou Lord art moſt high for ever more. For lo thine
+enemies O lord, for lo thine enemies ſhall periſh; all the workers of
+iniquity ſhall be ſcattered, but my horn ſhalt thou advance, as the
+horn of an Unicorn, I ſhall be annointed with freſh oyl.</p>
+            <p>
+               <hi>Hab.</hi> 2. 9. 10. 12. Wo to him that coveteth an evill covetouſneſs
+to his houſe, that he may ſet his neſt on high, that he may be deli<g ref="char:EOLhyphen"/>vered
+from the power of evil. Thou haſt conſulted ſhame to thy
+houſe, by cutting off many people, and haſt ſinned againſt thy ſoul.
+VVo to him that buildeth a Town with blood, and ſtabliſheth a
+City by iniquity.</p>
+            <p>
+               <hi>Iſai.</hi> 17. 12. 13. 14. VVo to the multitude of many Nations, which
+make a ruſhing like the ruſhing of mighty waters. The Nations
+ſhall ruſh<g ref="char:punc">▪</g> like the ruſhing of many waters, but God ſhall rebuke
+them, and they ſhall fl<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e far off, and ſhall be chaſed as the chaffe of
+the Mountains before the winde; and like a rolling thing before the
+whirl wind; and behold at evening tide trouble, and before the
+morning he is not. This is the portion of them that ſpoils us, and the
+lot of them that rob us.</p>
+            <p>
+               <hi>Dan.</hi> 8 23. 24. 25. And in the latter time of their kingdom, when
+the tranſgreſſions are come to the full, a King of fierce countenance
+and underſtanding dark ſentences ſhall ſtand up. And his power
+ſhall be mighty, but not by his own power: and he ſhall deſtroy
+wonderfully, and ſhall proſper, and practice, and ſhall deſtroy the
+mighty, and the holy people. And through his policy alſo he ſhall
+cauſe craft to proſper in his hand, and he ſhall magnifie himſelf in
+and by peace shall deſtroy many: he shall alſo ſtand up againſt the
+Prince of Princes, but he shall be broken without hand.</p>
+            <p>
+               <hi>Ezek.</hi> 13. 5. 10. to 16. Ye have nor gone up into the gaps, neither
+made up the hedg for the houſe of Iſrael to ſtand in the battell in
+the day of the Lord.</p>
+            <p>Becauſe, even becauſe they have ſeduced my people, ſaying, peace,
+and there was no peace: and one built up a wall, and lo others
+daubed it with untempred morter.</p>
+            <p>Say unto them which daub it with nutempred morter that it
+ſhall fall, there ſhall be an overflowing ſhowre, and ye O great
+hail ſtones ſhall fall, and a ſtormy wind ſhall rent it.</p>
+            <p>Lo, when the wall is fallen, ſhall it not be ſaid unto you, where
+is the daubing wherewith ye have daubed it?</p>
+            <p>
+               <pb n="6" facs="tcp:167999:5"/>
+Therefore thus ſaith the Lord God, I will even rent it with
+ſtormy wind in my fury, and there ſhall be an overflowing ſhowre
+in mine anger, and great hail ſtones in my fury to conſume it.</p>
+            <p>So will I break down the wall that ye have daubed with untem<g ref="char:EOLhyphen"/>pred
+morter, and bring it down to the ground, ſo that the founda<g ref="char:EOLhyphen"/>tion
+thereof ſhall be diſcovered, and it ſhall fall, and the shall be
+conſumed in the midſt thereof, and yee shall know that I am the
+Lord.</p>
+            <p>Thus wil I accomplish my wrath upon the wall, and upon them
+that have daubed it with untempred morter, and will ſay unto you,
+the wall is no more, neither they that daubed it.</p>
+            <p>
+               <hi>Gal.</hi> 5. 14. Am I therfore become your enemy becauſ I tel you the
+truth?</p>
+            <p>
+               <hi>Pſal.</hi> 107. 43. Whoſo is wiſe and wil obſerve theſe things, even
+they shall underſtand the loving kindneſs of the Lord.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
